@@ -1,1 +1,1 @@
-# actrivity_plugins
+# activity_plugins
